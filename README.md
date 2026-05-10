@@ -127,8 +127,8 @@ By accessing this repository, you agree to comply with these terms and condition
 For inquiries, collaboration, or to discuss your project needs:
 
 - **GitHub**: [@SHOJIB-80](https://github.com/SHOJIB-80)
-- **Email**: [Your Email Address]
-- **Portfolio**: [Your Portfolio URL]
+- **Email**: [mdsirajulislamshojib80@gmail.com]
+- **Portfolio**: [mdsirajulislamshojib.com]
 
 ---
 
